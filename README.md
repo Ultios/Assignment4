@@ -3,8 +3,6 @@ Assignment dari Bootcamp Pacmann
 Tujuan Pengerjaan Project: Membuat script sederhana untuk memanipulasi data untuk di bersihkan sesuai format yang diinginkan
 
 Detail/ deskripsi task:
-
-Alur program sederhana adalah:
 1. Filter kedua file yang digunakan, ini didahulukan agar merge atau stack tidak berat karena csvstack dan csvjoin time consuming disebabkan oleh melakukan sniffer per line. File baru dibuat.
 2. Menggabungkan kedua file. Menggunakan csvstack
 3. Mengambil kategori produk dan nama produk dari kolom category_code
